@@ -44,3 +44,4 @@ Since this repository is already hosted on GitHub, you can easily deploy this ap
 - `analysis.py`: Script to download data, perform EDA, and train the model.
 - `best_heart_disease_model.pkl`: The pre-trained Random Forest model and `StandardScaler` used by `app.py`.
 - `plots/`: Visualizations generated during data analysis.
+# CardioApp
